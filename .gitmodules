@@ -1,9 +1,9 @@
-[submodule "/Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-IOS"]
-	path = /Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-IOS
+[submodule "app/GuaiGuitar-IOS"]
+	path = app/GuaiGuitar-IOS
 	url = https://github.com/YuhangGe/GuaiGuitar-IOS.git
-[submodule "/Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-WP"]
-	path = /Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-WP
+[submodule "app/GuaiGuitar-WP"]
+	path = app/GuaiGuitar-WP
 	url = git@github.com:YuhangGe/GuaiGuitar-WP.git
-[submodule "/Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-Android"]
-	path = /Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-Android
+[submodule "app/GuaiGuitar-Android"]
+	path = app/GuaiGuitar-Android
 	url = git@github.com:YuhangGe/GuaiGuitar-Android.git
