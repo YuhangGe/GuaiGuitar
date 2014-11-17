@@ -1,6 +1,6 @@
 [submodule "/Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-IOS"]
 	path = /Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-IOS
-	url = git@github.com:YuhangGe/GuaiGuitar-IOS.git
+	url = https://github.com/YuhangGe/GuaiGuitar-IOS
 [submodule "/Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-WP"]
 	path = /Users/abraham/workspace/guitar/GuaiGuitar/app/GuaiGuitar-WP
 	url = git@github.com:YuhangGe/GuaiGuitar-WP.git
